@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2adc655d-78a8-4774-a9a5-4f4c1f661e4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pdABVqqizRAk4XLeeHiFWa6zb0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Bookscan.getIsbnList" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="momox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="books.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="books" />
+      <option name="MAIN_CLASS_NAME" value="books.Bookscan" />
+      <option name="METHOD_NAME" value="getIsbnList" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Bookscan.getIsbnList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2adc655d-78a8-4774-a9a5-4f4c1f661e4c" name="Default Changelist" comment="" />
+      <created>1615502464439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615502464439</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="143" y="25" key="#Project_Structure" timestamp="1615502678222">
+      <screen x="0" y="25" width="1280" height="722" />
+    </state>
+    <state x="143" y="25" key="#Project_Structure/0.25.1280.722@0.25.1280.722" timestamp="1615502678221" />
+    <state x="164" y="25" width="982" height="722" key="SettingsEditor" timestamp="1615502611887">
+      <screen x="0" y="25" width="1280" height="722" />
+    </state>
+    <state x="164" y="25" width="982" height="722" key="SettingsEditor/0.25.1280.722@0.25.1280.722" timestamp="1615502611887" />
+    <state x="320" y="71" width="670" height="676" key="search.everywhere.popup" timestamp="1615502598374">
+      <screen x="0" y="25" width="1280" height="722" />
+    </state>
+    <state x="320" y="71" width="670" height="676" key="search.everywhere.popup/0.25.1280.722@0.25.1280.722" timestamp="1615502598374" />
+  </component>
+</project>
